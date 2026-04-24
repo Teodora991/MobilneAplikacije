@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PripremaZaKolokvijum</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_intent">Implicit Intent</string>
+
+    <!-- Navigation Drawer -->
+    <string name="open">Open drawer</string>
+    <string name="close">Close drawer</string>
+</resources>
