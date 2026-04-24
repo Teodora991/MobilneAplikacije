@@ -70,6 +70,7 @@ public class ForegroundService extends Service {
         }
     }
 
+    //test
     private void pause() {
         if (player != null && player.isPlaying()) {
             player.pause();
